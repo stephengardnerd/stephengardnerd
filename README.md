@@ -1,10 +1,8 @@
 <!-- github.com/stephengardnerd/stephengardnerd/README.md -->
 <!-- Special-named repo: renders on Stephen's GitHub profile page -->
 
-<h1 align="center">Stephen D. Gardner</h1>
 <p align="center">
-  <b>AI Product Founder · Federal Data Science Leader · Navy Veteran</b><br/>
-  Shipping GenAI, agentic AI, and LLM-evaluated products — from the IC to K–12 classrooms.
+  <img src="./assets/hero.svg" alt="Stephen D. Gardner — AI Product Founder · Federal Data Science Leader · Navy Veteran" width="100%"/>
 </p>
 
 <p align="center">
@@ -17,11 +15,36 @@
 
 ---
 
-### Building now — [explanova.ai](https://explanova.ai)
+### Featured — [explanova.ai](https://explanova.ai)
 
-A family STEM homework copilot for K–12: avatar-on-whiteboard tutor, GraphRAG grounding, multi-model orchestration, and parent-side controls. Solo-built, live, and the cleanest mirror of my day-job focus areas at consumer scale.
-
-**Case study →** [`explanova-ai-product-case-study`](https://github.com/stephengardnerd/explanova-ai-product-case-study)
+<table>
+<tr>
+<td valign="top" width="32%" align="center">
+<a href="https://explanova.ai">
+<img src="https://img.shields.io/badge/LIVE-explanova.ai-2ea043?style=for-the-badge&logo=rocket&logoColor=white" alt="Live at explanova.ai"/>
+</a>
+<br/><br/>
+<b>K–12 STEM Copilot</b><br/>
+<sub>Family homework tutor<br/>Solo-built · Live in production</sub>
+<br/><br/>
+<a href="https://explanova.ai"><img src="https://img.shields.io/badge/Visit%20Site-1f6feb?style=flat-square&logo=safari&logoColor=white" alt="Visit site"/></a>
+<a href="https://github.com/stephengardnerd/explanova-ai-product-case-study"><img src="https://img.shields.io/badge/Case%20Study-24292e?style=flat-square&logo=github&logoColor=white" alt="Case study"/></a>
+</td>
+<td valign="top">
+<b>The product.</b> A family STEM homework copilot for K–12. Avatar-on-whiteboard tutor, GraphRAG grounding, multi-model orchestration, and parent-side controls — the cleanest consumer-scale mirror of my day-job focus areas.
+<br/><br/>
+<b>Why it matters.</b> Parents don't want an answer machine; they want a tutor that shows the work. Explanova grounds every step in verified curriculum (GraphRAG) so the avatar on the whiteboard teaches instead of hallucinates.
+<br/><br/>
+<b>Stack.</b>
+<img src="https://img.shields.io/badge/Gemini%203%20Pro-8e75f8?style=flat-square&logo=google&logoColor=white" alt="Gemini 3 Pro"/>
+<img src="https://img.shields.io/badge/GraphRAG-6f42c1?style=flat-square" alt="GraphRAG"/>
+<img src="https://img.shields.io/badge/Firebase-FFA000?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -31,6 +54,19 @@ A family STEM homework copilot for K–12: avatar-on-whiteboard tutor, GraphRAG 
 - **Agentic AI for sensemaking** — multi-agent orchestration over unstructured, multi-source data
 - **Multi-modal search & discovery** — unifying text, vision, and structured retrieval into one UX
 - **Knowledge graphs + RAG** — grounding generative output in verifiable, governed data
+
+---
+
+### GitHub activity
+
+<p align="center">
+  <a href="https://github.com/stephengardnerd">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=stephengardnerd&show_icons=true&hide_border=true&bg_color=0a2540&title_color=6f42c1&text_color=c9d1d9&icon_color=2ea043&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/stephengardnerd">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephengardnerd&layout=compact&hide_border=true&bg_color=0a2540&title_color=6f42c1&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+  </a>
+</p>
 
 ---
 
@@ -124,11 +160,14 @@ A family STEM homework copilot for K–12: avatar-on-whiteboard tutor, GraphRAG 
 
 ---
 
-### Contact
+### Connect
 
-- **Live product:** [explanova.ai](https://explanova.ai)
-- **LinkedIn:** [linkedin.com/in/stephengardnerd](https://www.linkedin.com/in/stephengardnerd)
-- **GitHub:** [@stephengardnerd](https://github.com/stephengardnerd)
-- **Location:** Chantilly, VA (DMV)
+<p align="center">
+  <a href="https://explanova.ai"><img src="https://img.shields.io/badge/Live%20Product-explanova.ai-2ea043?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Product"/></a>
+  <a href="https://www.linkedin.com/in/stephengardnerd"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/stephengardnerd"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p align="center"><sub>Based in Chantilly, VA · DMV</sub></p>
 
 <p align="center"><sub>Federal AI leader by day · solo AI-product founder by night · 23 years shipping systems that matter.</sub></p>
