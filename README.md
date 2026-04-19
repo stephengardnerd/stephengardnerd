@@ -36,22 +36,48 @@ A family STEM homework copilot for K–12: avatar-on-whiteboard tutor, GraphRAG 
 
 ### Career arc
 
-```mermaid
-timeline
-    title Twenty-three years in mission-critical systems
-    2002 : U.S. Navy — IT Supervisor (IT2/E-5)
-         : C4I ops, Operation Enduring Freedom
-    2011 : U.S. Dept. of State — IM Specialist
-         : Jeddah · Bangkok · Kabul · Washington D.C.
-    2018 : CIA — Data Scientist
-         : DDI/ADO · Center for Cyber Intelligence
-    2023 : CIA — Data Scientist (Manager)
-         : Tradecraft, hiring, Python code-reuse at Agency scale
-    2025 : CIA — Data Scientist (Supervisor)
-         : DDI/Open Source Enterprise · GenAI · LLM evals · agentic AI for OSINT
-    2026 : Founder — explanova.ai
-         : K–12 STEM copilot, solo-shipped
-```
+<p align="center"><i>Twenty-three years in mission-critical systems</i></p>
+
+<table>
+<tr>
+<td align="center" width="16%" valign="top">
+<img src="https://img.shields.io/badge/2002-1f6feb?style=for-the-badge" alt="2002"/><br/>
+<b>U.S. Navy</b><br/>
+<sub>IT Supervisor · IT2/E-5</sub><br/><br/>
+<sub>C4I operations<br/>Operation Enduring Freedom</sub>
+</td>
+<td align="center" width="16%" valign="top">
+<img src="https://img.shields.io/badge/2011-0a2540?style=for-the-badge" alt="2011"/><br/>
+<b>U.S. Dept. of State</b><br/>
+<sub>IM Specialist</sub><br/><br/>
+<sub>Jeddah · Bangkok<br/>Kabul · Washington D.C.</sub>
+</td>
+<td align="center" width="16%" valign="top">
+<img src="https://img.shields.io/badge/2018-6f42c1?style=for-the-badge" alt="2018"/><br/>
+<b>Federal IC</b><br/>
+<sub>Data Scientist</sub><br/><br/>
+<sub>Cyber intelligence<br/>mission</sub>
+</td>
+<td align="center" width="16%" valign="top">
+<img src="https://img.shields.io/badge/2023-8250df?style=for-the-badge" alt="2023"/><br/>
+<b>Federal IC</b><br/>
+<sub>Data Scientist · Manager</sub><br/><br/>
+<sub>Tradecraft · hiring<br/>Python reuse at enterprise scale</sub>
+</td>
+<td align="center" width="16%" valign="top">
+<img src="https://img.shields.io/badge/2025-bf3989?style=for-the-badge" alt="2025"/><br/>
+<b>Federal IC</b><br/>
+<sub>Data Scientist · Supervisor</sub><br/><br/>
+<sub>Open-source enterprise<br/>GenAI · LLM evals · agentic OSINT</sub>
+</td>
+<td align="center" width="16%" valign="top">
+<img src="https://img.shields.io/badge/2026-2ea043?style=for-the-badge" alt="2026"/><br/>
+<b>Founder — explanova.ai</b><br/>
+<sub>Solo-built</sub><br/><br/>
+<sub>K–12 STEM copilot<br/>live in production</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,13 +95,13 @@ timeline
 
 **AI/ML:** NLP · Computer Vision · Knowledge Graphs · GraphRAG · LLM Evals · Agentic AI · AI/ML Ethics
 **Infra:** IaC · CI/CD · Kubernetes · Terraform · Cloud (AWS/GCP/Azure)
-**Leadership:** AI Product Management · Data Governance · CIA Program Manager L2 · COTR L1
+**Leadership:** AI Product Management · Data Governance · Federal Program Manager L2 · COTR L1
 
 ---
 
 ### Recognition
 
-- **CIA** — Center for Cyber Intelligence Innovation Award · Meritorious Unit Citation (x2) · Exceptional Performance Award (x8)
+- **Federal IC** — Innovation Award · Meritorious Unit Citation (x2) · Exceptional Performance Award (x8)
 - **U.S. Department of State** — Performance Award (x3) · Warzone Assignment Award
 - **U.S. Navy** — Navy & Marine Corps Achievement Medal · Global War on Terrorism Expeditionary & Service Medals · NATO Service Medal · National Defense Service Medal · Good Conduct Medal
 
@@ -86,14 +112,15 @@ timeline
 - **M.S., Management Information Systems** — University of Illinois, Springfield · GPA 3.9 · Graduate Certificate: Business Intelligence · Beta Gamma Sigma
 - **B.S., Business Administration** *(cum laude)* — Southern Connecticut State University · Concentration: MIS · GPA 3.6 · Delta Mu Delta
 
-**Certifications:** CompTIA A+ · Network+ · Security+ · Project+ · ITIL v3 · CIA Program Manager L2 · COTR L1
+**Certifications:** CompTIA A+ · Network+ · Security+ · Project+ · ITIL v3 · Federal Program Manager L2 · COTR L1
 
 ---
 
 ### Pinned repositories
 
-1. **[explanova-ai-product-case-study](https://github.com/stephengardnerd/explanova-ai-product-case-study)** — live AI product case study (GraphRAG, multi-model orchestration, K–12 STEM)
-2. *(reserve 5 more — let's pick together from your existing public repos)*
+1. **[explanova-ai-product-case-study](https://github.com/stephengardnerd/explanova-ai-product-case-study)** — AI product case study, ideation to production: Gemini 3 Pro, GraphRAG, multi-model orchestration, Firebase, Cloud Run, Stripe, Playwright. Live at [explanova.ai](https://explanova.ai).
+2. **[DataEngineering_MLPipeline](https://github.com/stephengardnerd/DataEngineering_MLPipeline)** — End-to-end ML pipeline: ETL, NLP classification, and Flask web app for disaster-response message routing (Udacity Data Engineering Nanodegree).
+3. **[AI_Product_Management](https://github.com/stephengardnerd/AI_Product_Management)** — AI Product Management portfolio: MVP definition, prioritization, build-vs-buy, medical image annotation, and Google ML submissions from the Duke AI PM program.
 
 ---
 
