@@ -123,13 +123,14 @@
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**AI/ML:** NLP · Computer Vision · Knowledge Graphs · GraphRAG · LLM Evals · Agentic AI · ReAct · AI/ML Ethics
+**AI/ML:** NLP · Computer Vision · Knowledge Graphs · GraphRAG · LLM Evals · Agentic AI · AI/ML Ethics
 **Infra:** IaC · CI/CD · Kubernetes · Terraform · Cloud (AWS/GCP/Azure)
 **Leadership:** AI Product Management · Data Governance · Federal Program Manager L2 · COTR L1
 
