@@ -2,7 +2,7 @@
 <!-- Special-named repo: renders on Stephen's GitHub profile page -->
 
 <p align="center">
-  <img src="./assets/hero.svg" alt="Stephen D. Gardner — AI Product Founder · Federal Data Science Leader · Navy Veteran" width="100%"/>
+  <img src="./assets/hero.svg" alt="Stephen D. Gardner — AI Product Founder · Federal Data Science Leader · U.S. Navy Veteran" width="100%"/>
 </p>
 
 <p align="center">
