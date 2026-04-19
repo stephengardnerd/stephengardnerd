@@ -155,9 +155,9 @@
 
 ### Pinned repositories
 
-1. **[explanova-ai-product-case-study](https://github.com/stephengardnerd/explanova-ai-product-case-study)** — AI product case study, ideation to production: Gemini 3 Pro, GraphRAG, multi-model orchestration, Firebase, Cloud Run, Stripe, Playwright. Live at [explanova.ai](https://explanova.ai).
-2. **[DataEngineering_MLPipeline](https://github.com/stephengardnerd/DataEngineering_MLPipeline)** — End-to-end ML pipeline: ETL, NLP classification, and Flask web app for disaster-response message routing (Udacity Data Engineering Nanodegree).
-3. **[AI_Product_Management](https://github.com/stephengardnerd/AI_Product_Management)** — AI Product Management portfolio: MVP definition, prioritization, build-vs-buy, medical image annotation, and Google ML submissions from the Duke AI PM program.
+1. **[explanova-ai-product-case-study](https://github.com/stephengardnerd/explanova-ai-product-case-study)** — AI product case study, ideation to live production. Gemini 3 Pro · Claude Sonnet · Neo4j GraphRAG · Vertex AI · Google ADK · React + TypeScript + Tailwind · Cloud Run · Firebase · Stripe · Playwright. Live at [explanova.ai](https://explanova.ai).
+2. **[DataEngineering_MLPipeline](https://github.com/stephengardnerd/DataEngineering_MLPipeline)** — End-to-end ML pipeline for disaster-response message routing: Pandas ETL → SQLite → NLTK + TF-IDF → scikit-learn RandomForest (MultiOutput) → Flask + Plotly web app. Udacity Data Engineering Nanodegree.
+3. **[AI_Product_Management](https://github.com/stephengardnerd/AI_Product_Management)** — AI Product Management portfolio (Duke AI PM program): MVP & lifecycle design, build-vs-buy economics, medical-image-annotation capstone, bias & fairness audits, MLOps orchestration. Python · Jupyter.
 
 ---
 
