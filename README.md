@@ -24,14 +24,14 @@
 <img src="https://img.shields.io/badge/LIVE-explanova.ai-2ea043?style=for-the-badge&logo=rocket&logoColor=white" alt="Live at explanova.ai"/>
 </a>
 <br/><br/>
-<b>K–12 STEM Copilot</b><br/>
+<b>K–12 S.T.E.M. Copilot</b><br/>
 <sub>Family homework tutor<br/>Solo-built · Live in production</sub>
 <br/><br/>
 <a href="https://explanova.ai"><img src="https://img.shields.io/badge/Visit%20Site-1f6feb?style=flat-square&logo=safari&logoColor=white" alt="Visit site"/></a>
 <a href="https://github.com/stephengardnerd/explanova-ai-product-case-study"><img src="https://img.shields.io/badge/Case%20Study-24292e?style=flat-square&logo=github&logoColor=white" alt="Case study"/></a>
 </td>
 <td valign="top">
-<b>The product.</b> A family STEM homework copilot for K–12. Avatar-on-whiteboard tutor, GraphRAG grounding, multi-model orchestration, and parent-side controls — the cleanest consumer-scale mirror of my day-job focus areas.
+<b>The product.</b> A family S.T.E.M. homework copilot for K–12. Avatar-on-whiteboard tutor, GraphRAG grounding, multi-model orchestration, and parent-side controls — the cleanest consumer-scale mirror of my day-job focus areas.
 <br/><br/>
 <b>Why it matters.</b> Parents don't want an answer machine; they want a tutor that shows the work. Explanova grounds every step in verified curriculum (GraphRAG) so the avatar on the whiteboard teaches instead of hallucinates.
 <br/><br/>
@@ -110,7 +110,7 @@
 <img src="https://img.shields.io/badge/2026-2ea043?style=for-the-badge" alt="2026"/><br/>
 <b>Founder — explanova.ai</b><br/>
 <sub>Solo-built</sub><br/><br/>
-<sub>K–12 STEM copilot<br/>live in production</sub>
+<sub>K–12 S.T.E.M. copilot<br/>live in production</sub>
 </td>
 </tr>
 </table>
@@ -129,7 +129,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**AI/ML:** NLP · Computer Vision · Knowledge Graphs · GraphRAG · LLM Evals · Agentic AI · AI/ML Ethics
+**AI/ML:** NLP · Computer Vision · Knowledge Graphs · GraphRAG · LLM Evals · Agentic AI · ReAct · AI/ML Ethics
 **Infra:** IaC · CI/CD · Kubernetes · Terraform · Cloud (AWS/GCP/Azure)
 **Leadership:** AI Product Management · Data Governance · Federal Program Manager L2 · COTR L1
 
